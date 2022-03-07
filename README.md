@@ -1,2 +1,1 @@
-# NLP-Web-Apps
-Natural Language Processing Web Apps
+Text Summarizer is an AI based tool that wraps up a text to a specified short length. It can condense articles, papers, or documents down to the key points. It also features paraphrasing functionality to create unique summary of user’s content.
